@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "title": "Bootnode - Kit de Inicio para dApps",
+    "description": "Bootnode - Kit de Inicio para dApps"
+  },
+  "wallet": {
+    "address": "Dirección",
+    "appChainId": "Chain Id",
+    "connect": "Conectar",
+    "disconnect": "Desconectar",
+    "switchTo": "Cambiar a",
+    "wallet": "Billetera",
+    "yourBalance": "Balance"
+  },
+  "home": {
+    "title": "Bienvenida/o a Bootnode-web3-Next.js!",
+    "mainMessage": "Comienza editando",
+    "walletAddress": "Dirección de tu billetera"
+  },
+  "about": {
+    "title": "Acerca de",
+    "mainMessage": "Comienza editando"
+  },
+  "cookiePolicy": {
+    "title": "Política de cookies",
+    "mainMessage": "Comienza editando"
+  },
+  "components": {
+    "title": "Componentes",
+    "mainMessage": "Comienza editando"
+  }
+}

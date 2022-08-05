@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "title": "Bootnode - Frontend Starter Kit",
+    "description": "Bootnode - Frontend Starter Kit"
+  },
+  "wallet": {
+    "address": "Address",
+    "appChainId": "Chain Id",
+    "connect": "Connect",
+    "disconnect": "Disconnect",
+    "switchTo": "Switch to",
+    "wallet": "Wallet",
+    "yourBalance": "Balance"
+  },
+  "home": {
+    "title": "Welcome to Bootnode-web3-Next.js!",
+    "mainMessage": "Get started by editing",
+    "walletAddress": "Your wallet address"
+  },
+  "about": {
+    "title": "About",
+    "mainMessage": "Get started by editing"
+  },
+  "cookiePolicy": {
+    "title": "Cookie Policy",
+    "mainMessage": "Get started by editing"
+  },
+  "components": {
+    "title": "Components",
+    "mainMessage": "Get started by editing"
+  }
+}
